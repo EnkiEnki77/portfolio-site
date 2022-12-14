@@ -14,9 +14,22 @@ const Header = (props: Props) => {
         className="flex items-center "
       >
         <SocialIcon
-          url="https://twitter.com/jaketrent"
+          url="https://github.com/EnkiEnki77"
           fgColor="gray"
           bgColor="transparent"
+          target="_blank"
+        />
+        <SocialIcon
+          url="https://www.linkedin.com/in/austin-layman-0b0079122/"
+          fgColor="gray"
+          bgColor="transparent"
+          target="_blank"
+        />
+        <SocialIcon
+          url="https://github.com/EnkiEnki77"
+          fgColor="gray"
+          bgColor="transparent"
+          target="_blank"
         />
       </motion.div>
       <motion.div
